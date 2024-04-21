@@ -1,9 +1,9 @@
 ### Hi there! Welcome to Rita's GitHub Profile 👋
 
 ## About Me
-I'm Rita Maliza, a researcher and lecturer in the Department of Biology, Andalas University. 
-🌐 From: Tembilahan, Indragiri Hilir, Riau
-🔬 Research Interests: Molecular Endocrinology
+- 🔭 I'm Rita Maliza, a researcher and lecturer in the Department of Biology, Andalas University. 
+- 🌐 From: Tembilahan, Indragiri Hilir, Riau
+- 🔬 Research Interests: Molecular Endocrinology
 
 ## My Education Background
 - 🎓 B.Sc. in Chemistry, Andalas University (2007)
